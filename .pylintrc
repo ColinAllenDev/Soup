@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+disable = C0116
+disable = E302
+disable = E501

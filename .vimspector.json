@@ -1,0 +1,21 @@
+{
+  "configurations": {
+    "run": {
+      "adapter": "debugpy",
+      "configuration": {
+        "request": "launch",
+        "type": "python",
+        "cwd": "${workspaceRoot}",
+        "program": "${workspaceRoot}/soup.py",
+        "stopOnEntry": false,
+        "console": "integratedTerminal"
+      },
+      "breakpoints": {
+        "exception": {
+          "all": "N",
+          "uncaught": "N"
+        }
+      }
+    }
+  }
+}

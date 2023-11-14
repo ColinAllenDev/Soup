@@ -1,7 +1,6 @@
 from soup import Soup, Page
-from tqdm import tqdm
 from urllib.parse import urljoin
-import requests
+from dataclasses import dataclass
 import re
 
 class CategoryPage(Page):
@@ -34,6 +33,7 @@ class ProductPage(Page):
         self.special_features = []
         super().__init__(url)
         self.image = self._get_image()
+        self.model = self._get_model()
 
     def _parse_tables(self):
         pass
@@ -55,32 +55,21 @@ class ProductPage(Page):
         assert self.soup
         endpoint_pattern = re.compile(r'picts/.*\.jpg')
         image_url = self.soup.find('img', src=endpoint_pattern)
-        assert image_url
+        
+        # Handle missing images
+        if image_url == None:
+            image_url = ''
+        
         return image_url
 
-def handle_links(page):
-    # Create page progress bar
-    page_bar = tqdm(total=len(page.tables), colour='blue', position=0, leave=False, dynamic_ncols=True, desc=page.title)
-    for table in page.tables:
-        # Create table progress bar
-        table_bar = tqdm(total=len(table.links), colour='red', position=1, leave=False, dynamic_ncols=True, desc=table.title)
-        for link in table.links:
-            # Create link progress bar
-            ProductPage(link)
-            table_bar.update(1)
-        table_bar.close()
-        page_bar.update(1)
-    page_bar.close()
+    def _get_model(self):
+        assert self.tables
+        for table in self.tables:
+            
 
-# Main Loop
-def ProductParser():
-    # Environment Variables
-    root_url = "https://www.diamondantenna.net/products.html"
-    endpoints_ignored = ['techno.html', 'accessories.html', 'discontinued.html']
-    pattern = r'Product_Catalog/.*\.html'
-
+def EndpointParser(root_url, endpoints_ignored, pattern):
     # Welcome message
-    Soup.log.info('Welcome to Soup!')
+    Soup.log.info('Parsing Endpoints...')
 
     # Fetch and parse the main URL
     root_page = Soup.parse_url(root_url)
@@ -97,27 +86,63 @@ def ProductParser():
                       if not any(a['href'].endswith(ignr_endpoint)
                                  for ignr_endpoint in endpoints_ignored)]
 
-    # Track extracted endpoints to avoid repeats
-    endpoints_tracked = set()
+    return endpoint_links
 
-    # Loop through the endpoint links and fetch/parse each one
-    category_pages = []
-    for endpoint_link in endpoint_links:
-        # Check if we've already processed this endpoint
-        if endpoint_link in endpoints_tracked:
-            continue
-        # Add endpoint to tracked endpoints
-        endpoints_tracked.add(endpoint_link)
+class ProductParser():
+    @dataclass
+    class Category:
+        name: str
+        children: []
 
-        # Parse the current endpoint url
-        current_page = CategoryPage(endpoint_link)
-        current_page.print()
-        category_pages.append(current_page)
-    return category_pages
-    # Loop through product pages on each table
-    #product_pages = []
-    #for page in category_pages:
-    #    for table in page.tables:
-    #        for link in table.links:
-    #            product_page = ProductPage(link)
-    #            product_pages.append(product_page)
+    @dataclass
+    class Product:
+        model: str
+        title: str
+        tagline: str
+        description: str
+        category: str
+        parent_category: str
+        metadata: []
+        documents: []
+        thumbnails: []
+
+    def __init__(self):
+        self.products = []
+        self.categories = []
+    
+    # Get all products
+    def Parser(self, root_url, endpoints_ignored, pattern):
+        # Get endpoints
+        endpoint_links = EndpointParser(root_url, endpoints_ignored, pattern)
+        # Track extracted endpoints to avoid repeats
+        endpoints_tracked = set()
+        # Loop through the endpoint links and fetch/parse each one
+        for endpoint_link in endpoint_links:
+            # Check if we've already processed this endpoint
+            if endpoint_link in endpoints_tracked:
+                continue
+            # Add endpoint to tracked endpoints
+            endpoints_tracked.add(endpoint_link)
+
+            # Parse the current endpoint url
+            category_page = CategoryPage(endpoint_link)
+            category_title = re.sub(r'\s+', ' ', category_page.title).strip()
+            Soup.log.info("[Category]: %s", category_title)
+
+            # Parse each table for products
+            tables = []
+            for table in category_page.tables:
+                Soup.log.info("\t[Table]: %s", table.title)
+                tables.append(table.title)
+                for link in table.links:
+                    Soup.log.info("\t\t[Link]: %s", link)
+                    page = self.PageParser(link)
+                    
+                    
+
+                    product = self.Product(page.title, )
+
+            self.products.append(self.CategoryParser(endpoint_link))
+        
+
+    

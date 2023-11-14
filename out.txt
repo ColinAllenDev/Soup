@@ -1,0 +1,247 @@
+[SOUP] INFO Parsing Endpoints...
+[SOUP] INFO Using root url: https://www.diamondantenna.net/products.html
+[SOUP] INFO [Category]: Wireless Antennas & Accessories
+[SOUP] INFO     [Table]: Base Station Vertical
+[SOUP] INFO             [Link]: https://diamondantenna.net/f2405l.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f2407l.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f2409l.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/g200.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/fl2401a.html
+[SOUP] INFO     [Table]: Base Station Yagi
+[SOUP] INFO             [Link]: https://diamondantenna.net/2400ySeries.html
+[SOUP] INFO     [Table]: Mobile Antenna
+[SOUP] INFO             [Link]: https://diamondantenna.net/mg200.html
+[SOUP] INFO     [Table]: Terminal Equipment
+[SOUP] INFO             [Link]: https://diamondantenna.net/h2401Series.html
+[SOUP] INFO     [Table]: Accessories
+[SOUP] INFO             [Link]: https://diamondantenna.net/sp3000.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sp3000w.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sp1000.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cx210n.html
+[SOUP] INFO [Category]: Base Station Antennas
+[SOUP] INFO     [Table]: Mounting Brackets, and Stacking Booms
+[SOUP] INFO             [Link]: https://diamondantenna.net/s1.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/kb144.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s5.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/kb430.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s15.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/stackingbooms.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s5.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/stackingbooms.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s5.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s15.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/ss770r.html
+[SOUP] INFO     [Table]: VHF & UHF Monoband & Repeater
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp22e.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f142a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f22a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f23h.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f718a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/bc920.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/f1230A.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/g200.html
+[SOUP] INFO     [Table]: Commercial Antennas
+[SOUP] INFO             [Link]: https://diamondantenna.net/bc103.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x50c2.html
+[SOUP] INFO     [Table]: VHF & UHF Dualband & Repeater
+[SOUP] INFO             [Link]: https://diamondantenna.net/x30a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x50a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x50na.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x200a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x300a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x300na.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x2200a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x700hna.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x510series.html
+[SOUP] INFO     [Table]: VHF & UHF Triband & Repeater
+[SOUP] INFO             [Link]: https://diamondantenna.net/v2000a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x3200a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/x6000a.html
+[SOUP] INFO     [Table]: Wideband Discone
+[SOUP] INFO             [Link]: https://diamondantenna.net/d130j.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d130nj.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d3000n.html
+[SOUP] INFO     [Table]: Yagi Beams & Dipoles
+[SOUP] INFO             [Link]: https://diamondantenna.net/w735.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/w8010.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s5.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a144s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a430s15.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a502hb.html
+[SOUP] INFO     [Table]: HF Vertical & 6 Meter
+[SOUP] INFO             [Link]: https://diamondantenna.net/bb7v.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp5h.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp6ar.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp62.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp610.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp8040.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/HFV-5.html
+[SOUP] INFO [Category]: Duplexers & Triplexers
+[SOUP] INFO     [Table]: Not Found
+[SOUP] INFO     [Table]: Duplexers (Dualband)
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx62m.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx610.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx72d.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx72h.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx37.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx214d.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx72n.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx72a.html
+[SOUP] INFO     [Table]: Triplexers (Triband)
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx324.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx2000.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx2000n.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx3000.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mx3000n.html
+[SOUP] INFO [Category]: Mobile Antennas
+[SOUP] INFO     [Table]: Monoband
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf6cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf10cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf15cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf17cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf20cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf30cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf40cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf80cl.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hf6fx.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/m285.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/m285snmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/m685.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/m685snmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mg200.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr124n.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr124.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr22l.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr920.html
+[SOUP] INFO     [Table]: Dualband
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr72bnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr73bnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr770ha.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr770hb.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr770hnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr770hbnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr770hrks.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hrks.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr7900a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sg7000a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sg7500a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sg7500nmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sg7900a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sg7900nmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/az504sp.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/az507rsp1.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr77.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr77sma.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr77smaj.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr73sma.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr73sj.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr75sma.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/mr75sj.html
+[SOUP] INFO     [Table]: Triband
+[SOUP] INFO             [Link]: https://diamondantenna.net/cr627b.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cr320bnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cr320a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/nr2000na.html
+[SOUP] INFO     [Table]: Quad / Multiband HF-VHF
+[SOUP] INFO             [Link]: https://diamondantenna.net/cr8900a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d220.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hv7a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hvc_coils.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hvc_coils.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hvc_coils.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hvc_coils.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/sd3301.html
+[SOUP] INFO [Category]: Mobile Antenna Mounts
+[SOUP] INFO     [Table]: Not Found
+[SOUP] INFO             [Link]: https://diamondantenna.net/spm35.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/spmnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/dpk4nmn.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k702m.html
+[SOUP] INFO     [Table]: 
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400cnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400-38c.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400snmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400-38c2.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400-38c.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k9000tm.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412cnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/hrks.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412snmo.html
+[SOUP] INFO     [Table]: UHF Based Trunk Mounts
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400c.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400s.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412c.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412s.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k600m.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k600s.html
+[SOUP] INFO     [Table]: NMO Based Trunk Mounts
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400cnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k400snmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412cnmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k412snmo.html
+[SOUP] INFO     [Table]: 
+[SOUP] INFO             [Link]: https://diamondantenna.net/crm.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k515s.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k515snmo.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k540.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k540km.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k550.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k550.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k550km.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k9000lrm.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/k9000lrmo.html
+[SOUP] INFO [Category]: HF & 6m Antennas
+[SOUP] INFO     [Table]: HF Vertical
+[SOUP] INFO             [Link]: https://diamondantenna.net/bb7v.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp8040.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp5h.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp6ar.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/HFV-5.html
+[SOUP] INFO     [Table]: 6 Meter
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp62.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/cp610.html
+[SOUP] INFO     [Table]: Yagi Beams & Dipoles
+[SOUP] INFO             [Link]: https://diamondantenna.net/w735.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/w8010.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/a502hb.html
+[SOUP] INFO [Category]: HT & Scanner Antennas
+[SOUP] INFO     [Table]: BNC
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh205.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh3.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh519.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh707.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh789.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh77ca.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rhf40.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rhf10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/rh951s.html
+[SOUP] INFO     [Table]: SMA Male
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh229.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh519.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh789.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh701.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh779.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh77ca.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srhf10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh320a.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh805.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh815.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh940.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srhf40.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srh999.html
+[SOUP] INFO     [Table]: SMA Female
+[SOUP] INFO             [Link]: https://diamondantenna.net/srjf10.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srj77ca.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/srjf40.html
+[SOUP] INFO     [Table]: Scanner Antennas
+[SOUP] INFO             [Link]: https://diamondantenna.net/d130j.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d130nj.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d3000n.html
+[SOUP] INFO             [Link]: https://diamondantenna.net/d220.html

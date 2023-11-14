@@ -1,5 +1,4 @@
 import re
-from dataclasses import dataclass
 from urllib.parse import urljoin
 import logging
 import coloredlogs
@@ -8,18 +7,6 @@ import requests
 from bs4 import BeautifulSoup
 from sqlalchemy import create_engine
 from tabulate import tabulate
-
-@dataclass
-class Product:
-    model: str
-    title: str
-    tagline: str
-    description: str
-    category: str
-    parent_category: str
-    metadata: []
-    documents: []
-    thumbnails: []
 
 class Page:
     def __init__(self, url):
@@ -61,6 +48,7 @@ class Page:
             self.header = self._get_table_header()
             self.rows = self._get_table_rows()
             self.data = self._get_table_data()
+            self.models = self.header[0]
 
         def _get_links(self):
             assert self.soup

@@ -73,7 +73,7 @@ def handle_links(page):
     page_bar.close()
 
 # Main Loop
-def main():
+def ProductParser():
     # Environment Variables
     root_url = "https://www.diamondantenna.net/products.html"
     endpoints_ignored = ['techno.html', 'accessories.html', 'discontinued.html']
@@ -113,13 +113,11 @@ def main():
         current_page = CategoryPage(endpoint_link)
         current_page.print()
         category_pages.append(current_page)
-
+    return category_pages
     # Loop through product pages on each table
-    product_pages = []
-    for page in category_pages:
-        for table in page.tables:
-            for link in table.links:
-                product_page = ProductPage(link)
-                product_pages.append(product_page)
-
-main()
+    #product_pages = []
+    #for page in category_pages:
+    #    for table in page.tables:
+    #        for link in table.links:
+    #            product_page = ProductPage(link)
+    #            product_pages.append(product_page)

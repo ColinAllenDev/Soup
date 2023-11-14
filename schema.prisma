@@ -1,0 +1,138 @@
+datasource db {
+    provider = "mysql"
+    url      = env("DATABASE_URL")
+}
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+model Account {
+    id                 String  @id @default(cuid())
+    userId             String
+    type               String
+    provider           String
+    providerAccountId  String
+    refresh_token      String?  @db.Text
+    access_token       String?  @db.Text
+    expires_at         Int?
+    token_type         String?
+    scope              String?
+    id_token           String?  @db.Text
+    session_state      String?
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+    @@unique([provider, providerAccountId])
+}
+
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+    user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model User {
+    id            String    @id @default(cuid())
+    name          String?
+    email         String?   @unique
+    emailVerified DateTime?
+    image         String?
+    password      String?    @db.Text
+    accounts      Account[]
+    sessions      Session[]
+}
+
+model VerificationToken {
+    identifier String
+    token      String   @unique
+    expires    DateTime
+    @@unique([identifier, token])
+}
+
+model Category {
+    id          String              @id @default(cuid())
+    name        String
+    description String
+    products    Product[]           @relation("Category")
+    parentId    String?             @map("parent_id")
+    parent      Category?           @relation("CategoryToCategory", fields: [parentId], references: [id])
+    children    Category[]          @relation("CategoryToCategory")
+}
+
+model Document {
+    id          String  @id @default(cuid())
+    name        String
+    description String
+    file        String
+    thumbnail   String
+    product     Product @relation("Documents", fields: [productId], references: [id])
+    productId   String  @unique
+}
+
+model Product {
+    id              String      @id @default(cuid())
+    model           String      @unique
+    title           String      @unique
+    description     String      @db.Text
+    metadata        Json
+    category        Category    @relation("Category", fields: [categoryId], references: [id], onUpdate: Cascade)
+    categoryId      String      @unique
+    images          Image[]     @relation("Images")
+    documents       Document[]  @relation("Documents")
+    thumbnail       Thumbnail   @relation("Thumbnail", fields: [thumbnailId], references: [id])
+    thumbnailId     String      @unique
+}
+
+model Image {
+    id          String      @id @default(cuid())
+    url         String      @db.VarChar(2083)
+    alt         String?     @db.Text
+    product     Product     @relation("Images", fields: [productId], references: [id])
+    productId   String      @unique
+}
+
+model Thumbnail {
+    id          String      @id @default(cuid())
+    url         String      @db.VarChar(2083)
+    alt         String?     @db.Text
+    product     Product?    @relation("Thumbnail")
+}
+
+model Contact {
+    id          String      @id @default(cuid())
+    address     String
+    phone       String
+    dealer      Dealer      @relation(fields: [dealerId], references: [id])
+    dealerId    Int         @unique
+}
+
+model Dealer {
+    id          Int         @id @default(autoincrement())
+    name        String
+    description String
+    contacts    Contact[]
+}
+
+model OrderForm {
+  id            String    @id @default(cuid())
+  orderNumber   Int
+  orderStatus   String    @db.VarChar(1)
+  customerId    String    @db.VarChar(12)
+  description   String    @db.VarChar(20)
+  email         String    @db.VarChar(40)
+  phone         String    @db.VarChar(14)
+  shipName      String    @db.VarChar(40)
+  shipAddress1  String    @db.VarChar(40)
+  shipAddress2  String    @db.VarChar(40)
+  shipCity      String    @db.VarChar(40)
+  shipState     String    @db.VarChar(2)
+  shipZip       String    @db.VarChar(10)
+  billName      String    @db.VarChar(40)
+  billAddress1  String    @db.VarChar(40)
+  billAddress2  String    @db.VarChar(40)
+  billCity      String    @db.VarChar(40)
+  billState     String    @db.VarChar(2)
+  billZip       String    @db.VarChar(10)
+  cart          Json
+}

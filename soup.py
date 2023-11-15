@@ -43,12 +43,11 @@ class Page:
     class Table:
         def __init__(self, soup):
             self.soup = soup
-            self.links = self._get_links()
             self.title = self._get_title()
             self.header = self._get_table_header()
             self.rows = self._get_table_rows()
             self.data = self._get_table_data()
-            self.models = self.header[0]
+            self.links = self._get_links()
 
         def _get_links(self):
             assert self.soup
@@ -86,22 +85,6 @@ class Page:
         def _get_table_header(self):
             return [header.get_text(strip=True) for header in self.soup.find_all('th')]
 
-        def _get_table_header_adv(self):
-            header_row = [header.get_text(strip=True) for header in self.soup.find_all('th')]
-            data_rows = self._get_table_rows()[1:]
-            updated_header_row = header_row[:]
-            for data_row in data_rows:
-                column_index = 0
-                for header_element in header_row:
-                    if len(data_row) <= column_index:
-                        break
-                    if len(data_row) > column_index:
-                        num_header_elements = min(len(data_row) - column_index, len(header_row))
-                        updated_header_element = " ".join(header_row[column_index:column_index + num_header_elements])
-                        updated_header_row[column_index] = updated_header_element
-                        column_index += num_header_elements
-            return updated_header_row
-
         def print(self):
             print(f'Table: {self.title}')
             print(tabulate(self.to_dataframe(), headers='keys', tablefmt='psql', showindex=False))
@@ -117,6 +100,29 @@ class Soup:
         if response.status_code == 200:
             return BeautifulSoup(response.text, 'html.parser')
         return None
+    
+    # Parse endpoints to match a pattern
+    @staticmethod
+    def EndpointParser(root_url, endpoints_ignored, pattern):
+        # Welcome message
+        Soup.log.info('Parsing Endpoints...')
+
+        # Fetch and parse the main URL
+        root_page = Soup.parse_url(root_url)
+        assert root_page
+
+        Soup.log.info(f'Using root url: {root_url}')
+
+        # Define a regular expression pattern for endpoint links
+        endpoint_pattern = re.compile(pattern)
+
+        # Extract links to HTML endpoints matching the pattern above
+        endpoint_links = [urljoin(root_url, a['href'])
+                          for a in root_page.find_all('a', href=endpoint_pattern)
+                          if not any(a['href'].endswith(ignr_endpoint)
+                                     for ignr_endpoint in endpoints_ignored)]
+
+        return endpoint_links
 
     @staticmethod
     def to_sql(data_frame, db_url, table_name):
@@ -125,3 +131,7 @@ class Soup:
 
         # Upload the data frame to the database
         data_frame.to_sql(table_name, con=engine, if_exists='replace', index=False)
+
+    @staticmethod
+    def clean_whitespace(str):
+        return re.sub(r'\s+', ' ', str).strip()

@@ -1,6 +1,6 @@
 import asyncio
 import re
-from DAParser import PageParser, CategoryParser, TableParser
+from DAParser import ProductParser
 from prisma import Prisma
 
 async def POST_PRODUCTS() -> None:
@@ -14,8 +14,7 @@ def main():
     IGNORED_ENDPOINTS = ['techno.html', 'accessories.html', 'discontinued.html']
     PATTERN = r'Product_Catalog/.*\.html'
 
-    CategoryParser('https://diamondantenna.net/Product_Catalog/base_station.html')
-    #SiteParser(ROOT_URL, IGNORED_ENDPOINTS, PATTERN)
+    ProductParser.Parse(ROOT_URL, IGNORED_ENDPOINTS, PATTERN)
 
 if __name__ == '__main__':
     main()

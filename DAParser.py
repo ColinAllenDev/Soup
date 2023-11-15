@@ -1,6 +1,8 @@
+from rich.progress import Progress, SpinnerColumn, TimeElapsedColumn
 from soup import Soup, Page
 from urllib.parse import urljoin
 from dataclasses import dataclass
+import pandas as pd
 import re
 
 class CategoryPage(Page):
@@ -85,7 +87,7 @@ class ProductPage(Page):
         if 'src' in image.attrs:
             image_url = urljoin('https://diamondantenna.net/', image['src'])
 
-        return { image_alt, image_url } 
+        return [image_alt, image_url]
     
     def _get_model(self):
         assert self.title
@@ -118,54 +120,62 @@ class Product:
     title: str
     tagline: str
     category: str
-    image: str
     metadata: []
-    documents: []
-    thumbnail: {str, str}
+    thumbnail: []
 
 class ProductParser():
     def __init__(self, root_url, endpoints_ignored, pattern):
-        self.root_url = root_url
-        self.endpoints_ignored = endpoints_ignored
-        self.pattern = pattern
         self.products = []
         self.categories = []
-        
+        self.parse = self.Parse(root_url, endpoints_ignored, pattern)
+
     # Get all products
-    @staticmethod
-    def Parse(root_url, endpoints_ignored, pattern):
-        # Get endpoints
-        endpoint_links = Soup.EndpointParser(root_url, endpoints_ignored, pattern)
-        # Track extracted endpoints to avoid repeats
-        endpoints_tracked = set()
-        # Loop through the endpoint links and fetch/parse each one
-        for endpoint_link in endpoint_links:
-            # Check if we've already processed this endpoint
-            if endpoint_link in endpoints_tracked:
-                continue
-            # Add endpoint to tracked endpoints
-            endpoints_tracked.add(endpoint_link)
+    def Parse(self, root_url, endpoints_ignored, pattern):
+        # Create progress bar
+        with Progress(SpinnerColumn(), *Progress.get_default_columns(), TimeElapsedColumn(), transient=False) as progress:
+            # Get endpoints
+            endpoint_links = Soup.EndpointParser(root_url, endpoints_ignored, pattern)
+            # Track extracted endpoints to avoid repeats
+            endpoints_tracked = set()
+            # Loop through the endpoint links and fetch/parse each one
+            categories = []
+            products = []
+            for endpoint_link in endpoint_links:
+                # Check if we've already processed this endpoint
+                if endpoint_link in endpoints_tracked:
+                    continue
+                # Add endpoint to tracked endpoints
+                endpoints_tracked.add(endpoint_link)
 
-            # Parse the current endpoint url
-            category_page = CategoryPage(endpoint_link)
-            category_title = Soup.clean_whitespace(category_page.title)
-            page_categories = []
-            Soup.log.info("[Category]: %s", category_title)
+                # Parse the current endpoint url
+                category_page = CategoryPage(endpoint_link)
+                category_title = Soup.clean_whitespace(category_page.title)
+                category_task = progress.add_task(f"[cyan] Category: {category_title}", total=len(category_page.tables))
+    
+                # Parse each table for products
+                category_children = []
+                for table in category_page.tables:
+                    table_title = Soup.clean_whitespace(table.title)
+                    table_task = progress.add_task(f"[red] Table: {table_title}", total=len(table.links))
 
-            # Parse each table for products
-            for table in category_page.tables:
-                Soup.log.info("\t[Table]: %s", table.title)
-                for index, link in enumerate(table.links):
-                    Soup.log.info("\t\t[Link]: %s", link)
-                    product_page = ProductPage(link, index, table.to_dataframe())
-                    product_title = Soup.clean_whitespace(product_page.title)
-                    page_categories.append(Soup.clean_whitespace(table.title))
-                    Soup.log.info("\t\t\t[Model]: %s", product_page.model)
-                    Soup.log.info("\t\t\t[Title]: %s", product_title)
-                    Soup.log.info("\t\t\t[Tagline]: %s", product_page.tagline)
-                    Soup.log.info("\t\t\t[Category]: %s", Soup.clean_whitespace(table.title))
-                    Soup.log.info("\t\t\t[Metadata]: %s", product_page.metadata)
-                    Soup.log.info("\t\t\t[Thumbnail]: %s", product_page.image)
+                    category_children.append(table_title)
+                    for index, link in enumerate(table.links):
+                        product_page = ProductPage(link, index, table.to_dataframe())
+                        product_title = Soup.clean_whitespace(product_page.title)
+                        if isinstance(product_page.metadata, pd.Series):
+                            print("Found series")
+                            product_metadata = product_page.metadata.to_dict()
+                        else:
+                            product_metadata = product_page.metadata
+                        products.append(Product(product_page.model, product_title, product_page.tagline, table_title, product_metadata, product_page.image))
+
+                        progress.update(table_task, advance=1)
+                    progress.update(category_task, advance=1)
+                categories.append(Category(category_title, category_children))
+            self.categories = categories
+            self.products = products
+
+
         
 
     

@@ -1,7 +1,5 @@
 import re
 from urllib.parse import urljoin
-import logging
-import coloredlogs
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -36,7 +34,7 @@ class Page:
 
     def print(self):
         assert self.title
-        Soup.log.info(f'Page: {self.title}')
+        #Soup.log.info(f'Page: {self.title}')
         for table in self.tables:
             table.print()
 
@@ -90,9 +88,6 @@ class Page:
             print(tabulate(self.to_dataframe(), headers='keys', tablefmt='psql', showindex=False))
 
 class Soup:
-    log = logging.getLogger(__name__)
-    coloredlogs.install(fmt="[SOUP] %(levelname)s %(message)s")
-
     # Parse an html page using BeautifulSoup
     @staticmethod
     def parse_url(url):
@@ -105,13 +100,13 @@ class Soup:
     @staticmethod
     def EndpointParser(root_url, endpoints_ignored, pattern):
         # Welcome message
-        Soup.log.info('Parsing Endpoints...')
+        #Soup.log.info('Parsing Endpoints...')
 
         # Fetch and parse the main URL
         root_page = Soup.parse_url(root_url)
         assert root_page
 
-        Soup.log.info(f'Using root url: {root_url}')
+        #Soup.log.info(f'Using root url: {root_url}')
 
         # Define a regular expression pattern for endpoint links
         endpoint_pattern = re.compile(pattern)

@@ -1,0 +1,2740 @@
+[
+    {
+      "model": "F2405L",
+      "title": "F2405L Wireless-LAN Antenna",
+      "tagline": "5 dBi Fiberglass Omni",
+      "category": "Base Station Vertical",
+      "metadata": [],
+      "thumbnail": [
+        "F2405L Wireless-LAN Antenna",
+        "https://diamondantenna.net/picts/f2405s.jpg"
+      ]
+    },
+    {
+      "model": "F2407L",
+      "title": "F2407L Wireless-LAN Antenna",
+      "tagline": "7 dBi Fiberglass Omni",
+      "category": "Base Station Vertical",
+      "metadata": [],
+      "thumbnail": [
+        "F2407L Wireless-LAN Antenna",
+        "https://diamondantenna.net/picts/f2407l.jpg"
+      ]
+    },
+    {
+      "model": "F2409L",
+      "title": "F2409L Wireless-LAN Antenna",
+      "tagline": "9 dBi Fiberglass Omni",
+      "category": "Base Station Vertical",
+      "metadata": [],
+      "thumbnail": [
+        "F2409L Wireless-LAN Antenna",
+        "https://diamondantenna.net/picts/f2409l.jpg"
+      ]
+    },
+    {
+      "model": "G200",
+      "title": "G200 Wireless-LAN Antenna",
+      "tagline": "11 dBi Fiberglass Omni",
+      "category": "Base Station Vertical",
+      "metadata": [],
+      "thumbnail": [
+        "G200 Wireless-LAN Antenna",
+        "https://diamondantenna.net/picts/G200.jpg"
+      ]
+    },
+    {
+      "model": "FL2401A",
+      "title": "FL2401A Wireless Flat Panel Antenna",
+      "tagline": "9 dBi Flat Panel",
+      "category": "Base Station Vertical",
+      "metadata": [],
+      "thumbnail": [
+        "FL2401A Wireless Flat Panel Antenna",
+        "https://diamondantenna.net/picts/fl2401a2.jpg"
+      ]
+    },
+    {
+      "model": "2400Y",
+      "title": "2400Y Series Wireless Base Station Yagi Beam Antenna",
+      "tagline": "12 dBi Yagi",
+      "category": "Base Station Yagi",
+      "metadata": [],
+      "thumbnail": [
+        "2400Y12 Yagi Beam",
+        "https://diamondantenna.net/picts/2400y12main.jpg"
+      ]
+    },
+    {
+      "model": "MG200",
+      "title": "MG200 Monoband Mobile Antenna",
+      "tagline": "7 dBi Mobile",
+      "category": "Mobile Antenna",
+      "metadata": [],
+      "thumbnail": [
+        "MG200 Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/mg200.jpg"
+      ]
+    },
+    {
+      "model": "H2401",
+      "title": "H2401 Series Terminal Equipment Antennas",
+      "tagline": "2.14 dB Portable",
+      "category": "Terminal Equipment",
+      "metadata": [],
+      "thumbnail": [
+        "H2401C",
+        "https://diamondantenna.net/picts/H2401C.jpg"
+      ]
+    },
+    {
+      "model": "SP3000",
+      "title": "SP3000 Lightning Arrester",
+      "tagline": "Lightning Arrester, \n                        N (female)",
+      "category": "Accessories",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/sp3000.jpg"
+      ]
+    },
+    {
+      "model": "SP3000W",
+      "title": "SP3000W Lightning Arrester",
+      "tagline": "Lightning Arrester, \n                        N (female) Waterproof",
+      "category": "Accessories",
+      "metadata": [],
+      "thumbnail": [
+        "SP3000W Lightning Arrestor",
+        "https://diamondantenna.net/picts/sp3000w.jpg"
+      ]
+    },
+    {
+      "model": "SP1000",
+      "title": "SP1000 Lightning Arrester",
+      "tagline": "Lightning Arrester, \n                        UHF (female)",
+      "category": "Accessories",
+      "metadata": [],
+      "thumbnail": [
+        "CA35RPW Lightning Arrester",
+        "https://diamondantenna.net/picts/sp1000.jpg"
+      ]
+    },
+    {
+      "model": "CX210N",
+      "title": "CX210N Heavy Duty Wideband Coax Switch",
+      "tagline": "2 Position Coax \n                        Switch, Type-N, DC-3000 MHz",
+      "category": "Accessories",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/cx210a.jpg"
+      ]
+    },
+    {
+      "model": "S1",
+      "title": "S1 - Bi-Directional Mast Bracket",
+      "tagline": "Bi-Directional Mast Bracket. Fits mast sizes of 1.2\" to 2.4\"",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "DL30A Compact Dummy Load",
+        "https://diamondantenna.net/picts/S1.jpg"
+      ]
+    },
+    {
+      "model": "KB144",
+      "title": "KB144 Side Mount Bracket",
+      "tagline": "Side Mount Boom forA144S5andA144S10",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "A144S5",
+        "https://diamondantenna.net/picts/a144s5.jpg"
+      ]
+    },
+    {
+      "model": "KB430",
+      "title": "KB430 Mounting Bracket",
+      "tagline": "Side Mount Boom forA430S10andA430S15",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "KB430 Mounting Bracket",
+        "https://diamondantenna.net/picts/KB430.jpg"
+      ]
+    },
+    {
+      "model": "SB144",
+      "title": "SB144 and SB430 Dual Antenna Stacking Boom",
+      "tagline": "Dual Antenna Stacking Boom ForA144S5andA144S10",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "A144S5",
+        "https://diamondantenna.net/picts/A430S10STACKED.jpg"
+      ]
+    },
+    {
+      "model": "SB144",
+      "title": "SB144 and SB430 Dual Antenna Stacking Boom",
+      "tagline": "Dual Antenna Stacking Boom ForA430S10andA430S15",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "A144S5",
+        "https://diamondantenna.net/picts/A430S10STACKED.jpg"
+      ]
+    },
+    {
+      "model": "SS770R",
+      "title": "SS770R Phasing Harness for Stacking",
+      "tagline": "Phasing Harness for Stacking",
+      "category": "Mounting Brackets, and Stacking Booms",
+      "metadata": [],
+      "thumbnail": [
+        "SS770R",
+        "https://diamondantenna.net/picts/S770R.jpg"
+      ]
+    },
+    {
+      "model": "CP22E",
+      "title": "CP22E High-Gain Monoband Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "2m",
+        "Stacked ElementPhasing/Wavelength": "2 5/8l",
+        "Gain/dB": "6.5",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "3",
+        "LengthFoot": "9.0",
+        "WindMPH": "70"
+      },
+      "thumbnail": [
+        "CP22E",
+        "https://diamondantenna.net/picts/cp22e.jpg"
+      ]
+    },
+    {
+      "model": "F142A",
+      "title": "F142A Monoband Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "1-1/4m",
+        "Stacked ElementPhasing/Wavelength": "2 5/8l",
+        "Gain/dB": "5.5",
+        "Watts": "150",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "3",
+        "LengthFoot": "6.0",
+        "WindMPH": "135"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "F22A",
+      "title": "F22A Monoband Base Station Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "2m",
+        "Stacked ElementPhasing/Wavelength": "2 7/8l",
+        "Gain/dB": "6.7",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "5",
+        "LengthFoot": "10.5",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "F22A",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "F23H",
+      "title": "F23H Monoband Base Station Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "2m",
+        "Stacked ElementPhasing/Wavelength": "3 5/8l144\r\n–174 MHz",
+        "Gain/dB": "7.8",
+        "Watts": "350",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "8",
+        "LengthFoot": "15.0",
+        "WindMPH": "90"
+      },
+      "thumbnail": [
+        "F23H Monoband Base Station Antenna",
+        "https://diamondantenna.net/picts/x500hna.jpg"
+      ]
+    },
+    {
+      "model": "F718A",
+      "title": "F718A Base Station Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "70cm",
+        "Stacked ElementPhasing/Wavelength": "18 1/2l440–450 MHz",
+        "Gain/dB": "11.5",
+        "Watts": "250",
+        "ConnectorType": "N",
+        "WeightLbs.": "5",
+        "LengthFoot": "15.0",
+        "WindMPH": "90"
+      },
+      "thumbnail": [
+        "F718A Base Station Antenna",
+        "https://diamondantenna.net/picts/x500hna.jpg"
+      ]
+    },
+    {
+      "model": "BC920",
+      "title": "BC920 Monoband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "900MHz",
+        "Stacked ElementPhasing/Wavelength": "5 5/8l",
+        "Gain/dB": "9.3 dBi",
+        "Watts": "100",
+        "ConnectorType": "N",
+        "WeightLbs.": "2",
+        "LengthFoot": "5.9",
+        "WindMPH": "135"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "F1230A",
+      "title": "F1230A Monoband Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "23cm",
+        "Stacked ElementPhasing/Wavelength": "14 5/8l",
+        "Gain/dB": "13.8",
+        "Watts": "100",
+        "ConnectorType": "N",
+        "WeightLbs.": "-",
+        "LengthFoot": "11.5",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "F1230A Monoband Base Antenna ",
+        "https://diamondantenna.net/picts/F1230A.jpg"
+      ]
+    },
+    {
+      "model": "G200",
+      "title": "G200 Wireless-LAN Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Monoband & Repeater",
+      "metadata": {
+        "Band": "2.4 GHz",
+        "Stacked ElementPhasing/Wavelength": "19 1/2l",
+        "Gain/dB": "11 dBi",
+        "Watts": "–",
+        "ConnectorType": "N",
+        "WeightLbs.": "3",
+        "LengthFoot": "58”",
+        "WindMPH": "135"
+      },
+      "thumbnail": [
+        "G200 Wireless-LAN Antenna",
+        "https://diamondantenna.net/picts/G200.jpg"
+      ]
+    },
+    {
+      "model": "BC103",
+      "title": "BC103 Wideband Commercial Antenna",
+      "tagline": "",
+      "category": "Commercial Antennas",
+      "metadata": {
+        "Band": "143-176MHZ",
+        "Stacked ElementPhasing/Wavelength": "1/2l -5/8l",
+        "Gain/dB": "2.5-3.2",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "3",
+        "LengthFoot": "9.0",
+        "WindMPH": "70"
+      },
+      "thumbnail": [
+        "BC103",
+        "https://diamondantenna.net/picts/BC103.jpg"
+      ]
+    },
+    {
+      "model": "X50C2",
+      "title": "X50C2 Dualband Base/Repeater AntennaTuned for Commercial Frequencies",
+      "tagline": "",
+      "category": "Commercial Antennas",
+      "metadata": {
+        "Band": "Same Specs as X50. Tuned to Commercail frequencies 146-155, 450-465MHz",
+        "Stacked ElementPhasing/Wavelength": null,
+        "Gain/dB": null,
+        "Watts": null,
+        "ConnectorType": null,
+        "WeightLbs.": null,
+        "LengthFoot": null,
+        "WindMPH": null
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "X30A",
+      "title": "X30A Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 1 1/2l70cm: 2 5/8l",
+        "Gain/dB": "3.0 / 5.5",
+        "Watts": "150",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "-",
+        "LengthFoot": "4.5",
+        "WindMPH": "135"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "X50A",
+      "title": "X50A Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 3 1/4l70cm: 3 5/8l",
+        "Gain/dB": "4.5 / 7.2",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "3",
+        "LengthFoot": "5.6",
+        "WindMPH": "135"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "X50NA",
+      "title": "X50NA Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 3 1/4l70cm: 3 5/8lrepeater version",
+        "Gain/dB": "4.5 / 7.2",
+        "Watts": "200",
+        "ConnectorType": "N",
+        "WeightLbs.": "3",
+        "LengthFoot": "5.6",
+        "WindMPH": "135"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "X200A",
+      "title": "X200A Dualband Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 2 5/8l70cm: 4 5/8l",
+        "Gain/dB": "6.0 / 8.0",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "4",
+        "LengthFoot": "8.3",
+        "WindMPH": "112"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "X300A",
+      "title": "X300A Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 2 5/8l70cm: 5 5/8l",
+        "Gain/dB": "6.5 / 9.0",
+        "Watts": "200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "-",
+        "LengthFoot": "10",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "X300A",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "X300NA",
+      "title": "X300NA Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 2 5/8l70cm: 5 5/8l",
+        "Gain/dB": "6.5 / 9.0",
+        "Watts": "200",
+        "ConnectorType": "N",
+        "WeightLbs.": "-",
+        "LengthFoot": "10",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "X300A",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "X2200A",
+      "title": "X2200A Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 1-1/4m",
+        "Stacked ElementPhasing/Wavelength": "2m:3/4l(c-load)1-1/4m:3- 5/8l",
+        "Gain/dB": "6.0 / 7.8",
+        "Watts": "150",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "-",
+        "LengthFoot": "10",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "X300A",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "X700HNA",
+      "title": "X700HNA Dualband Base/Repeater Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "2m: 4-5/8l70cm:11 5/8l",
+        "Gain/dB": "9.3/13.0",
+        "Watts": "200",
+        "ConnectorType": "N",
+        "WeightLbs.": "-",
+        "LengthFoot": "24",
+        "WindMPH": "90"
+      },
+      "thumbnail": [
+        "X700HNA Dualband Base/Repeater Antenna",
+        "https://diamondantenna.net/picts/X700_S.jpg"
+      ]
+    },
+    {
+      "model": "X510HD",
+      "title": "X510HD Series Base Station Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Dualband & Repeater",
+      "metadata": {
+        "Band": "UHF",
+        "Stacked ElementPhasing/Wavelength": null,
+        "Gain/dB": null,
+        "Watts": null,
+        "ConnectorType": null,
+        "WeightLbs.": null,
+        "LengthFoot": null,
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "X510 Series Base Station Antenna",
+        "https://diamondantenna.net/picts/x500hna.jpg"
+      ]
+    },
+    {
+      "model": "V2000A",
+      "title": "V2000A Tri-band Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Triband & Repeater",
+      "metadata": {
+        "Band": "6m / 2m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "6m: 1 1/2l2m: 2 5/8l70 cm: 4 5/8l",
+        "Gain/dB": "2.1 / 6.2 / 8.4",
+        "Watts": "150",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "4",
+        "LengthFoot": "8.3",
+        "WindMPH": "110"
+      },
+      "thumbnail": [
+        "V2000A Tri-band Base Antenna",
+        "https://diamondantenna.net/picts/v2000.jpg"
+      ]
+    },
+    {
+      "model": "X3200A",
+      "title": "X3200A Triband Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Triband & Repeater",
+      "metadata": {
+        "Band": "2m* /1 1/4m / 70cm",
+        "Stacked ElementPhasing/Wavelength": "1 3/4l, 3 5/8l,3 5/8l",
+        "Gain/dB": "6.0 / 7.8 / 8.0",
+        "Watts": "100 / 200",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "4",
+        "LengthFoot": "10.5",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "X3200A Triband Base Antenna",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "X6000A",
+      "title": "X6000A Triband Base Antenna",
+      "tagline": "",
+      "category": "VHF & UHF Triband & Repeater",
+      "metadata": {
+        "Band": "2m / 70cm / 23cm",
+        "Stacked ElementPhasing/Wavelength": "2 5/8l, 5 5/8l,6 5/8l",
+        "Gain/dB": "6.5 / 9.0 / 10.0",
+        "Watts": "100@",
+        "ConnectorType": "N",
+        "WeightLbs.": "4",
+        "LengthFoot": "10.5",
+        "WindMPH": "112"
+      },
+      "thumbnail": [
+        "X6000A Triband Base Antenna ",
+        "https://diamondantenna.net/picts/x300.jpg"
+      ]
+    },
+    {
+      "model": "D130J",
+      "title": "D130J Super Discone Antenna",
+      "tagline": "",
+      "category": "Wideband Discone",
+      "metadata": {
+        "Band": "2m / 70cm / 23cm",
+        "Stacked ElementPhasing/Wavelength": "25–1300 MHz. Wideband Discone. \r\n                      Approx. 2 dBi",
+        "Gain/dB": "UHF",
+        "Watts": "2.2",
+        "ConnectorType": "5.6",
+        "WeightLbs.": "90",
+        "LengthFoot": null,
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "D130NJ",
+      "title": "D130NJ Super Discone Antenna",
+      "tagline": "",
+      "category": "Wideband Discone",
+      "metadata": {
+        "Band": "2m / 70cm / 23cm",
+        "Stacked ElementPhasing/Wavelength": "25–1300 MHz. Wideband Discone. Approx. 2 dBi",
+        "Gain/dB": "N",
+        "Watts": "2.2",
+        "ConnectorType": "5.6",
+        "WeightLbs.": "90",
+        "LengthFoot": null,
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "D3000N",
+      "title": "D3000N Super Discone Antenna",
+      "tagline": "",
+      "category": "Wideband Discone",
+      "metadata": {
+        "Band": "2m / 70cm / 23cm",
+        "Stacked ElementPhasing/Wavelength": "25-3000 MHz. Wideband DisconeApprox. 2 dBi",
+        "Gain/dB": "N",
+        "Watts": "2.2",
+        "ConnectorType": "5.6",
+        "WeightLbs.": "90",
+        "LengthFoot": null,
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "D3000N Super Discone Antenna",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "W735",
+      "title": "W735 Long Wire Dipole Antenna",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "80m/40m",
+        "Gain/dBi": "",
+        "Power Rating": "1.2kW PEP",
+        "Boom Length": "85.3'",
+        "Weight Lbs.": "4.1"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/W735.jpg"
+      ]
+    },
+    {
+      "model": "W8010",
+      "title": "W8010 Long Wire Dipole Antenna",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "80m/40m/20m15m/10m",
+        "Gain/dBi": "",
+        "Power Rating": "1.2kW PEP",
+        "Boom Length": "63'",
+        "Weight Lbs.": "5.8"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/W8010.jpg"
+      ]
+    },
+    {
+      "model": "A144S5",
+      "title": "A144S5 Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "144-148 MHz",
+        "Gain/dBi": "9",
+        "Power Rating": "50 watts FM",
+        "Boom Length": "37.5”",
+        "Weight Lbs.": "1.4"
+      },
+      "thumbnail": [
+        "A144S5",
+        "https://diamondantenna.net/picts/a144s5.jpg"
+      ]
+    },
+    {
+      "model": "A144S10",
+      "title": "A144S10 Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "144-148 MHz",
+        "Gain/dBi": "11.6",
+        "Power Rating": "50 watts FM",
+        "Boom Length": "84”",
+        "Weight Lbs.": "2.4"
+      },
+      "thumbnail": [
+        "A144S10",
+        "https://diamondantenna.net/picts/A144S10.jpg"
+      ]
+    },
+    {
+      "model": "A430S10",
+      "title": "A430S10 Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "430-440 MHz",
+        "Gain/dBi": "13",
+        "Power Rating": "100 watts",
+        "Boom Length": "43”",
+        "Weight Lbs.": "1.4"
+      },
+      "thumbnail": [
+        "A430S10 mounted on KB430",
+        "https://diamondantenna.net/picts/A430S10.jpg"
+      ]
+    },
+    {
+      "model": "A430S15",
+      "title": "A430S15 Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "430-440 MHz",
+        "Gain/dBi": "14.8",
+        "Power Rating": "100 watts",
+        "Boom Length": "89”",
+        "Weight Lbs.": "2.15"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "A502HB",
+      "title": "A502HB Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "6 meter2 element",
+        "Gain/dBi": "6.3",
+        "Power Rating": "400 watts PEP130 watts FM",
+        "Boom Length": "2.6´",
+        "Weight Lbs.": "3.75"
+      },
+      "thumbnail": [
+        "A502HB Base Station Yagi",
+        "https://diamondantenna.net/picts/a502hb.jpg"
+      ]
+    },
+    {
+      "model": "BB7V",
+      "title": "BB7V Multiband Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "2-30 MHz (tuner required)",
+        "Gain/dBi": "250 watts PEP",
+        "Power Rating": "5' / 22'",
+        "Length": "4.5",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "BB7V",
+        "https://diamondantenna.net/picts/BB7V.jpg"
+      ]
+    },
+    {
+      "model": "CP5H",
+      "title": "CP5H Five-Band Trap Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "40m/20m/15m/10m/6mTrap vertical w/ radials",
+        "Gain/dBi": "200/400/400/500/500",
+        "Power Rating": "11' 8\"",
+        "Length": "6.6",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/cp5h.jpg"
+      ]
+    },
+    {
+      "model": "CP725H",
+      "title": "CP725H Quad Band Trap Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "40m/15m/10m/6mTrap vertical w/ radials",
+        "Gain/dBi": "200/500",
+        "Power Rating": "11' 8\"",
+        "Length": "6.6",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP725H.jpg"
+      ]
+    },
+    {
+      "model": "CP6AR",
+      "title": "CP6AR Multi-Band HF Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "75m/40m/20m/15m/10m/6mHF Antenna",
+        "Gain/dBi": "200",
+        "Power Rating": "15.1'",
+        "Length": "9.9",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "CP6AR",
+        "https://diamondantenna.net/picts/cp5.jpg"
+      ]
+    },
+    {
+      "model": "CP62",
+      "title": "CP62 6m Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "6m, 2-5/8 wave",
+        "Gain/dBi": "200 FM/500 SSB",
+        "Power Rating": "22'",
+        "Length": "6.6",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "CP62 6m Antenna",
+        "https://diamondantenna.net/picts/CP62.jpg"
+      ]
+    },
+    {
+      "model": "CP610",
+      "title": "CP610 6m Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "6m/10m, 2-5/8/1-5/8 wave",
+        "Gain/dBi": "200 FM/500 SSB",
+        "Power Rating": "22'",
+        "Length": "6.6",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP610.jpg"
+      ]
+    },
+    {
+      "model": "CP8040",
+      "title": "CP8040 80m/40m Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "80m/40mHF Antenna",
+        "Gain/dBi": "200W SSB",
+        "Power Rating": "21'",
+        "Length": "9",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP8040.jpg"
+      ]
+    },
+    {
+      "model": "HFV-5",
+      "title": "HFV-5 HF Dipole Antenna",
+      "tagline": "",
+      "category": "HF Vertical & 6 Meter",
+      "metadata": {
+        "Frequency": "40m/20m/15m/10m/6mTrapped Dipole",
+        "Gain/dBi": "150W/200W SSB",
+        "Power Rating": "13.1'",
+        "Length": "4.3",
+        "Weight Lbs.": null
+      },
+      "thumbnail": [
+        "SD330 Screwdriver Mobile Antenna",
+        "https://diamondantenna.net/picts/HFV5.jpg"
+      ]
+    },
+    {
+      "model": "MX324",
+      "title": "MX324 Triplexer",
+      "tagline": "",
+      "category": "Triplexers (Triband)",
+      "metadata": {
+        "Port*": "LPFBPFHPF",
+        "Freq.MHz": "1.6–150220–225400–550",
+        "FMW": "400300250",
+        "PEPW": "800600500",
+        "LossdB": ".3.4.4",
+        "Isol.dB": "404040",
+        "MIXConn.": "SO-239",
+        "PortConn.": "PL-259 / 12” 5D cablePL-259 / 12” 5D cablePL-259 / 12” 5D cable"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/mx324.jpg"
+      ]
+    },
+    {
+      "model": "MX2000",
+      "title": "MX2000 Triplexer",
+      "tagline": "",
+      "category": "Triplexers (Triband)",
+      "metadata": {
+        "Port*": "LPFBPFHPF",
+        "Freq.MHz": "1.6–60110–170300–950",
+        "FMW": "400400250",
+        "PEPW": "800800500",
+        "LossdB": ".15.2.25",
+        "Isol.dB": "606060",
+        "MIXConn.": "SO-239",
+        "PortConn.": "PL-259 / 12” 5D cablePL-259 / 12” 5D cablePL-259 / 12” 5D cable"
+      },
+      "thumbnail": [
+        "MX2000 Triplexer",
+        "https://diamondantenna.net/picts/MX2000.jpg"
+      ]
+    },
+    {
+      "model": "MX2000N",
+      "title": "MX2000N Triplexer",
+      "tagline": "",
+      "category": "Triplexers (Triband)",
+      "metadata": {
+        "Port*": "LPFBPFHPF",
+        "Freq.MHz": "1.6–60110–170300–950",
+        "FMW": "400400250",
+        "PEPW": "800800500",
+        "LossdB": ".15.2.25",
+        "Isol.dB": "606060",
+        "MIXConn.": "SO-239",
+        "PortConn.": "PL-259 / 12” 5D cablePL-259 / 12” 5D cableN Male / 12” 5D cable"
+      },
+      "thumbnail": [
+        "MX2000N Triplexer",
+        "https://diamondantenna.net/picts/MX2000N.jpg"
+      ]
+    },
+    {
+      "model": "MX3000",
+      "title": "MX3000 Triplexer",
+      "tagline": "",
+      "category": "Triplexers (Triband)",
+      "metadata": {
+        "Port*": "LPFBPFHPF",
+        "Freq.MHz": "1.6–160350–500850–1300",
+        "FMW": "400200100",
+        "PEPW": "800400200",
+        "LossdB": ".2.3.4",
+        "Isol.dB": "555555",
+        "MIXConn.": "N Female",
+        "PortConn.": "PL-259 / 12” 5D cablePL-259 / 12” 5D cableN Male / 12” 5D cable"
+      },
+      "thumbnail": [
+        "MX3000 Triplexer",
+        "https://diamondantenna.net/picts/MX3000.jpg"
+      ]
+    },
+    {
+      "model": "MX3000N",
+      "title": "MX3000N Triplexer",
+      "tagline": "",
+      "category": "Triplexers (Triband)",
+      "metadata": {
+        "Port*": "LPFBPFHPF",
+        "Freq.MHz": "1.6–160350–500850–1300",
+        "FMW": "400200100",
+        "PEPW": "800400200",
+        "LossdB": ".2.3.4",
+        "Isol.dB": "555555",
+        "MIXConn.": "N Female",
+        "PortConn.": "PL-259 / 12” 5D cableN Male / 12” 5D cableN Male / 12” 5D cable"
+      },
+      "thumbnail": [
+        "MX3000N Triplexer",
+        "https://diamondantenna.net/picts/MX3000N.jpg"
+      ]
+    },
+    {
+      "model": "HF6CL",
+      "title": "HF6CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "6m",
+        "Element Phasing/Wavelength": "1/2l",
+        "Gain/dBi": "3.0",
+        "Watts": "250",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF6CL.jpg"
+      ]
+    },
+    {
+      "model": "HF10CL",
+      "title": "HF10CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "10m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF20CL.jpg"
+      ]
+    },
+    {
+      "model": "HF15CL",
+      "title": "HF15CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "15m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF20CL.jpg"
+      ]
+    },
+    {
+      "model": "HF17CL",
+      "title": "HF17CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "17m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF20CL.jpg"
+      ]
+    },
+    {
+      "model": "HF20CL",
+      "title": "HF20CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "20m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF20CL.jpg"
+      ]
+    },
+    {
+      "model": "HF30CL",
+      "title": "HF30CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "30m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF20CL.jpg"
+      ]
+    },
+    {
+      "model": "HF40CL",
+      "title": "HF40CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "40m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "86.6"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF40CL.jpg"
+      ]
+    },
+    {
+      "model": "HF80CL",
+      "title": "HF80CL Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "80m",
+        "Element Phasing/Wavelength": "1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "120",
+        "Mount": "UHF",
+        "LengthInches": "87.5"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/HF80CL.jpg"
+      ]
+    },
+    {
+      "model": "HF6FX",
+      "title": "HF6FX Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "6m",
+        "Element Phasing/Wavelength": "1 1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "250",
+        "Mount": "UHF",
+        "LengthInches": "44"
+      },
+      "thumbnail": [
+        "HF6FX Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/hf6fx.jpg"
+      ]
+    },
+    {
+      "model": "M285S",
+      "title": "M285S Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "2m",
+        "Element Phasing/Wavelength": "1 5/8l",
+        "Gain/dBi": "3.4",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "52.4"
+      },
+      "thumbnail": [
+        "M285 Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/M285.jpg"
+      ]
+    },
+    {
+      "model": "M285SNMO",
+      "title": "M285SNMO Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "2m",
+        "Element Phasing/Wavelength": "1 5/8l",
+        "Gain/dBi": "3.4",
+        "Watts": "200",
+        "Mount": "NMO",
+        "LengthInches": "52.4"
+      },
+      "thumbnail": [
+        "M285 Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/M285.jpg"
+      ]
+    },
+    {
+      "model": "M685S",
+      "title": "M685S Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "6m",
+        "Element Phasing/Wavelength": "1 1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "52.4"
+      },
+      "thumbnail": [
+        "M685 Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/M685.jpg"
+      ]
+    },
+    {
+      "model": "M685SNMO",
+      "title": "M685SNMO Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "6m",
+        "Element Phasing/Wavelength": "1 1/4l",
+        "Gain/dBi": "2.15",
+        "Watts": "200",
+        "Mount": "NMO",
+        "LengthInches": "52.4"
+      },
+      "thumbnail": [
+        "M685 Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/M685.jpg"
+      ]
+    },
+    {
+      "model": "MG200",
+      "title": "MG200 Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "2.4 GHz",
+        "Element Phasing/Wavelength": "3 1/2l",
+        "Gain/dBi": "7.0",
+        "Watts": "–",
+        "Mount": "N",
+        "LengthInches": "23.6"
+      },
+      "thumbnail": [
+        "MG200 Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/mg200.jpg"
+      ]
+    },
+    {
+      "model": "NR124N",
+      "title": "NR124N Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "23cm",
+        "Element Phasing/Wavelength": "4-5/8l",
+        "Gain/dBi": "8.4",
+        "Watts": "100",
+        "Mount": "N",
+        "LengthInches": "25"
+      },
+      "thumbnail": [
+        "NR124 Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/NR124.jpg"
+      ]
+    },
+    {
+      "model": "NR124NMO",
+      "title": "NR124NMO Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "23cm",
+        "Element Phasing/Wavelength": "4-5/8l",
+        "Gain/dBi": "8.4",
+        "Watts": "100",
+        "Mount": "NMO",
+        "LengthInches": "25"
+      },
+      "thumbnail": [
+        "NR124 Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/NR124.jpg"
+      ]
+    },
+    {
+      "model": "NR140BNMO",
+      "title": "NR140BNMO Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "222-225 MHz",
+        "Element Phasing/Wavelength": "1 1/2 + 1/4l",
+        "Gain/dBi": "3.8",
+        "Watts": "100",
+        "Mount": "NMO",
+        "LengthInches": "36.2"
+      },
+      "thumbnail": [
+        "NR140NMO Monoband Mobile Antenna ",
+        "https://diamondantenna.net/picts/NR140BNMO.jpg"
+      ]
+    },
+    {
+      "model": "NR22L",
+      "title": "NR22L Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "2m",
+        "Element Phasing/Wavelength": "2 5/8l+ 1/4l",
+        "Gain/dBi": "6.0",
+        "Watts": "100",
+        "Mount": "UHF",
+        "LengthInches": "96.8"
+      },
+      "thumbnail": [
+        "NR22L Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/NR22L%20new.jpg"
+      ]
+    },
+    {
+      "model": "NR920",
+      "title": "NR920 Monoband Mobile Antenna",
+      "tagline": "",
+      "category": "Monoband",
+      "metadata": {
+        "Band": "900MHz",
+        "Element Phasing/Wavelength": "3 5/8l",
+        "Gain/dBi": "7.0",
+        "Watts": "50",
+        "Mount": "N",
+        "LengthInches": "28.9"
+      },
+      "thumbnail": [
+        "M285 Monoband Mobile Antenna",
+        "https://diamondantenna.net/picts/NR920.jpg"
+      ]
+    },
+    {
+      "model": "NR72BNMO",
+      "title": "NR72BNMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1 1/4l, \r\n                        1 1/2l",
+        "Gain/dBi": "2.15 / 3.0",
+        "Watts": "100",
+        "Mount": "NMO",
+        "LengthInches": "13.8"
+      },
+      "thumbnail": [
+        "NR72BNMO Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/nr72bnmo.jpg"
+      ]
+    },
+    {
+      "model": "NR73BNMO",
+      "title": "NR73BNMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1 1/2l, \r\n                        2 5/8l",
+        "Gain/dBi": "2.15 / 5.3",
+        "Watts": "100",
+        "Mount": "NMO",
+        "LengthInches": "33.5"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/nr73bnmo.jpg"
+      ]
+    },
+    {
+      "model": "NR770HA",
+      "title": "NR770HA Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1 1/2l, \r\n                        2 5/8l",
+        "Gain/dBi": "3.0 / 5.5",
+        "Watts": "200",
+        "Mount": "UHF",
+        "LengthInches": "40.2"
+      },
+      "thumbnail": [
+        "NR770HA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/NR770HA.jpg"
+      ]
+    },
+    {
+      "model": "NR770HB",
+      "title": "NR770HB Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "Same as NR770HA, in Black.",
+        "Element Phasing/Wavelength": "UHF",
+        "Gain/dBi": "40.2",
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "NR770HB Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/nr770hb.jpg"
+      ]
+    },
+    {
+      "model": "NR770HNMO",
+      "title": "NR770HNMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "Same as NR770HA, except uses NMO mount.",
+        "Element Phasing/Wavelength": "NMO",
+        "Gain/dBi": "38.2",
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "NR770HNMO Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/NR770HNMO.jpg"
+      ]
+    },
+    {
+      "model": "NR770HBNMO",
+      "title": "NR770HBNMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "Same as NR770HNMO, in Black.",
+        "Element Phasing/Wavelength": "NMO",
+        "Gain/dBi": "38.2",
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "NR770HBNMO Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/nr770hbnmo.jpg"
+      ]
+    },
+    {
+      "model": "NR770HRKS",
+      "title": "NR770HRKS Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "NR770HA &HRKSadhesive backed mount as a set.",
+        "Element Phasing/Wavelength": null,
+        "Gain/dBi": null,
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "NR770HA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/nr770hrks.jpg"
+      ]
+    },
+    {
+      "model": "NR7900A",
+      "title": "NR7900A Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1/2l+1/4l, \r\n                        3-5/8l",
+        "Gain/dBi": "3.7/ \r\n                        6.4",
+        "Watts": "300250",
+        "Mount": "UHF",
+        "LengthInches": "57"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/NR7900A.jpg"
+      ]
+    },
+    {
+      "model": "SG7000A",
+      "title": "SG7000A Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1 1/4l, \r\n                        1 3/8l",
+        "Gain/dBi": "2.15 / 3.8",
+        "Watts": "100",
+        "Mount": "UHF",
+        "LengthInches": "18.5"
+      },
+      "thumbnail": [
+        "SG7000A Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/sg7000.jpg"
+      ]
+    },
+    {
+      "model": "SG7500A",
+      "title": "SG7500A Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1 1/2l, \r\n                        2 5/8l",
+        "Gain/dBi": "3.5 / 6.0",
+        "Watts": "150",
+        "Mount": "UHF",
+        "LengthInches": "40.6"
+      },
+      "thumbnail": [
+        "SG7500A Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/sg7500.jpg"
+      ]
+    },
+    {
+      "model": "SG7500NMO",
+      "title": "SG7500NMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1 1/2l, \r\n                        2 5/8l",
+        "Gain/dBi": "3.5 / 6.0",
+        "Watts": "150",
+        "Mount": "NMO",
+        "LengthInches": "40.6"
+      },
+      "thumbnail": [
+        "SG7500NMO Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/sg7500.jpg"
+      ]
+    },
+    {
+      "model": "SG7900A",
+      "title": "SG7900A Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "2 1/4l, \r\n                        1 3/8l, 3 5/8l",
+        "Gain/dBi": "5.0 / 7.6",
+        "Watts": "150",
+        "Mount": "UHF",
+        "LengthInches": "62.2"
+      },
+      "thumbnail": [
+        "SG7900A Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/sg7900a.jpg"
+      ]
+    },
+    {
+      "model": "SG7900ANMO",
+      "title": "SG7900ANMO Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "7/8l, 3 \r\n                        5/8l",
+        "Gain/dBi": "5.0 / 7.6",
+        "Watts": "150",
+        "Mount": "NMO",
+        "LengthInches": "62.2"
+      },
+      "thumbnail": [
+        "SG7900NMO Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/sg7900a.jpg"
+      ]
+    },
+    {
+      "model": "AZ504SP",
+      "title": "AZ504SP Dualband w/ Spring Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": null,
+        "Element Phasing/Wavelength": null,
+        "Gain/dBi": null,
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "AZ504SP Slim Gainer Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/AZ504SP.jpg"
+      ]
+    },
+    {
+      "model": "AZ507RSP",
+      "title": "AZ507RSP Dualband w/ Spring Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1/4l, 1/2l",
+        "Gain/dBi": "2.15",
+        "Watts": "50",
+        "Mount": "UHF",
+        "LengthInches": "15.5"
+      },
+      "thumbnail": [
+        "AZ507RSP Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/AZ507RSP.jpg"
+      ]
+    },
+    {
+      "model": "MR77",
+      "title": "MR77 Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm",
+        "Element Phasing/Wavelength": "1/2l, 2 5/8l",
+        "Gain/dBi": "2.15 / 4.9",
+        "Watts": "50",
+        "Mount": "UHF",
+        "LengthInches": "27.5"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/mr77.jpg"
+      ]
+    },
+    {
+      "model": "MR77SMA",
+      "title": "MR77SMA Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": null,
+        "Element Phasing/Wavelength": null,
+        "Gain/dBi": null,
+        "Watts": null,
+        "Mount": null,
+        "LengthInches": null
+      },
+      "thumbnail": [
+        "MR77SMA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/mr77.jpg"
+      ]
+    },
+    {
+      "model": "MR77SMAJ",
+      "title": "MR77SMAJ Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1/4l, 5/8l",
+        "Gain/dBi": "2.15 / 3.4",
+        "Watts": "70",
+        "Mount": "magnet w/UHF",
+        "LengthInches": "20"
+      },
+      "thumbnail": [
+        "MR77SMA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/mr77.jpg"
+      ]
+    },
+    {
+      "model": "MR73SA",
+      "title": "MR73SA Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1/4l, 5/8l",
+        "Gain/dBi": "2.15 / 3.4",
+        "Watts": "70",
+        "Mount": "magnet w/SMA",
+        "LengthInches": "20"
+      },
+      "thumbnail": [
+        "MR73SMA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/MR73SMA.jpg"
+      ]
+    },
+    {
+      "model": "MR73SJ",
+      "title": "MR73SJ Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1/4l, 5/8l",
+        "Gain/dBi": "2.15 / 3.4",
+        "Watts": "70",
+        "Mount": "magnet w/SMA Female",
+        "LengthInches": "20"
+      },
+      "thumbnail": [
+        "MR73SMA Dualband Mobile Antenna",
+        "https://diamondantenna.net/picts/MR73SMA.jpg"
+      ]
+    },
+    {
+      "model": "MR75S",
+      "title": "MR75S Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1/4l, 5/8l",
+        "Gain/dBi": "2.15 / 3.4",
+        "Watts": "10",
+        "Mount": "magnet w/SMA",
+        "LengthInches": "19.5"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/MR75.jpg"
+      ]
+    },
+    {
+      "model": "MR75SJ",
+      "title": "MR75SJ Dualband Mobile Antenna",
+      "tagline": "",
+      "category": "Dualband",
+      "metadata": {
+        "Band": "2m / 70cm Black",
+        "Element Phasing/Wavelength": "1/4l, 5/8l",
+        "Gain/dBi": "2.15 / 3.4",
+        "Watts": "10",
+        "Mount": "magnet w/SMA Female",
+        "LengthInches": "19.5"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/MR75.jpg"
+      ]
+    },
+    {
+      "model": "CR627B",
+      "title": "CR627B Triband Mobile Antenna",
+      "tagline": "",
+      "category": "Triband",
+      "metadata": {
+        "Band": "6m / 2m / 70cm",
+        "ElementPhasing/Wavelength": "1 1/4l, \r\n                        3 1/4l, 3 5/8l",
+        "Gain/dBi": "2.15 / 4.5 / 7.2",
+        "Watts": "150",
+        "Mount": "UHF",
+        "LengthInches": "60"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/cr627b.jpg"
+      ]
+    },
+    {
+      "model": "CR320BNMO",
+      "title": "CR320BNMO Triband Mobile Antenna",
+      "tagline": "",
+      "category": "Triband",
+      "metadata": {
+        "Band": "2m / 1-1/4m / 70cmblack",
+        "ElementPhasing/Wavelength": "2m / 1/4l/ 1-1/4m \r\n                        / 1/2l/ 70cm / 2-5/8l",
+        "Gain/dBi": "2.15 / 3.8 / 5.5",
+        "Watts": "200/100/200",
+        "Mount": "NMO",
+        "LengthInches": "37.4"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "CR320A",
+      "title": "CR320A Triband Mobile Antenna",
+      "tagline": "",
+      "category": "Triband",
+      "metadata": {
+        "Band": "2m / 1-1/4m / 70cmblack",
+        "ElementPhasing/Wavelength": "2m / 1/4l/ 1-1/4m / 1/2l/ 70cm / 2-5/8l",
+        "Gain/dBi": "2.15 / 3.8 / 5.5",
+        "Watts": "200/100/200",
+        "Mount": "UHF",
+        "LengthInches": "37.4"
+      },
+      "thumbnail": ""
+    },
+    {
+      "model": "NR2000NA",
+      "title": "NR2000NA Triband Mobile Antenna",
+      "tagline": "",
+      "category": "Triband",
+      "metadata": {
+        "Band": "2m / 70cm / 23cm",
+        "ElementPhasing/Wavelength": "1 1/2l, \r\n                        2 5/8l, 5 5/8l",
+        "Gain/dBi": "3.15 / 6.3 / 9.7",
+        "Watts": "100",
+        "Mount": "N",
+        "LengthInches": "39"
+      },
+      "thumbnail": [
+        "NR2000NA Triband Mobile Antenna",
+        "https://diamondantenna.net/picts/NR2000M.jpg"
+      ]
+    },
+    {
+      "model": "CR8900A",
+      "title": "CR8900A Quad Band FM Mobile Antenna",
+      "tagline": "Quad Band FM Mobile Antenna System.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CR8900A.jpg"
+      ]
+    },
+    {
+      "model": "D220R",
+      "title": "D220R Mobile Scanner Antenna",
+      "tagline": "Mobile Discone Scanner Antenna.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/D2220R_HIRES.jpg"
+      ]
+    },
+    {
+      "model": "HV7A",
+      "title": "HV7A Multi-Band Mobile Antenna",
+      "tagline": "Mobile antenna system.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": [
+        "HV7A Multi-Band Mobile Antenna",
+        "https://diamondantenna.net/picts/HV7A.jpg"
+      ]
+    },
+    {
+      "model": "HVC",
+      "title": "HVC Loading Coils",
+      "tagline": "40m Loading Coil for HV7A & MV3A.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "HVC",
+      "title": "HVC Loading Coils",
+      "tagline": "20m Loading Coil for HV7A & MV3A.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "HVC",
+      "title": "HVC Loading Coils",
+      "tagline": "17m Loading Coil for HV7A & MV3A.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "HVC",
+      "title": "HVC Loading Coils",
+      "tagline": "15m Loading Coil for HV7A & MV3A.",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "SD330",
+      "title": "SD330 HF Screwdriver Mobile Antenna",
+      "tagline": "3.5-30 MHz Screwdriver AntennaAlso Avaliable in 3/8x24 Connector",
+      "category": "Quad / Multiband HF-VHF",
+      "metadata": [],
+      "thumbnail": [
+        "SD330 Screwdriver Mobile Antenna",
+        "https://diamondantenna.net/picts/SD330_1.jpg"
+      ]
+    },
+    {
+      "model": "SPM35",
+      "title": "SPM35 Magnet Mount",
+      "tagline": "Premium Quality. Heavy 2.2 lb./4\" magnet.",
+      "category": "Not Found",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/spm35.jpg"
+      ]
+    },
+    {
+      "model": "SPM/NMO",
+      "title": "SPM/NMO Magnet Mount",
+      "tagline": "Premium Quality. Heavy 2.2 lb./4\" magnet., with NMO.",
+      "category": "Not Found",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/spmnmo.jpg"
+      ]
+    },
+    {
+      "model": "DPK4NM-N",
+      "title": "DPK4NM-N Magnet Mount",
+      "tagline": "Premium Quality. Heavy 2.2 lb./4\" magnet. With Type N connector",
+      "category": "Not Found",
+      "metadata": [],
+      "thumbnail": [
+        "DPK4NMN Magnet Mount",
+        "https://diamondantenna.net/picts/DPK-4NMN.jpg"
+      ]
+    },
+    {
+      "model": "K702M",
+      "title": "K702M Magnet Mount",
+      "tagline": "Low profile Magnet mount with high holding power.",
+      "category": "Not Found",
+      "metadata": [],
+      "thumbnail": [
+        "K702M Magnet Mount",
+        "https://diamondantenna.net/picts/k702m.jpg"
+      ]
+    },
+    {
+      "model": "K400",
+      "title": "K400 Trunk/Hatchback Mount",
+      "tagline": "Diamond deluxe heavy duty hatchback/door/trunk lid.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/k400.jpg"
+      ]
+    },
+    {
+      "model": "K400-3/8C",
+      "title": "K400-3/8C Trunk/Hatchback Mount",
+      "tagline": "Special mount for 3/8-24 thread antennas.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K400-3/8C Trunk/Hatchback Mount",
+        "https://diamondantenna.net/picts/K400-3_8C.jpg"
+      ]
+    },
+    {
+      "model": "K400-3/8C2",
+      "title": "K400-3/8C2 Trunk/Hatchback Mount",
+      "tagline": "Same as K400-3/8C, Just with 13.5' of cable",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K400-3/8C Trunk/Hatchback Mount",
+        "https://diamondantenna.net/picts/K400-3_8C.jpg"
+      ]
+    },
+    {
+      "model": "K9000TM",
+      "title": "K9000TM Motorized Mount",
+      "tagline": "Motorized trunk/hatchback mount.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K9000TM Motorized Mount",
+        "https://diamondantenna.net/picts/K9000_5.jpg"
+      ]
+    },
+    {
+      "model": "HRKS",
+      "title": "HRKS Adhesive Backed Mount",
+      "tagline": "Adhesive backed mount UHF base with SMA.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "HRKS Adhesive Backed Mount",
+        "https://diamondantenna.net/picts/HRKS.jpg"
+      ]
+    },
+    {
+      "model": "K400C",
+      "title": "K400C Trunk/Hatchback Mount",
+      "tagline": "Diamond deluxe mount with UHF type base.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K400C Trunk/Hatchback Mount",
+        "https://diamondantenna.net/picts/K400UHF.jpg"
+      ]
+    },
+    {
+      "model": "K400S",
+      "title": "K400S Trunk/Hatchback Mount",
+      "tagline": "Trunk lid/hatchback mount with SO-239 base and SMA.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K400S Trunk/Hatchback Mount",
+        "https://diamondantenna.net/picts/K400UHF.jpg"
+      ]
+    },
+    {
+      "model": "K412C",
+      "title": "K412C Trunk Lip Mount",
+      "tagline": "Medium duty mount with UHF base.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K412C Complete Kit",
+        "https://diamondantenna.net/picts/K412UHF.jpg"
+      ]
+    },
+    {
+      "model": "K412S",
+      "title": "K412S Trunk Lip Mount",
+      "tagline": "Medium duty trunk lip mount with UHF base and SMA.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K412S Trunk Lip Mount",
+        "https://diamondantenna.net/picts/K412UHF.jpg"
+      ]
+    },
+    {
+      "model": "K600M",
+      "title": "K600M Trunk Mount",
+      "tagline": "Diamond heavy duty tilt angle (0-9°) trunk mount.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K600M Trunk Mount",
+        "https://diamondantenna.net/picts/K600.jpg"
+      ]
+    },
+    {
+      "model": "K600S",
+      "title": "K600S Trunk Mount",
+      "tagline": "Diamond heavy duty tilt angle (0-9°) trunk mount, with SMA.",
+      "category": "UHF Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K600S Trunk Mount",
+        "https://diamondantenna.net/picts/K600.jpg"
+      ]
+    },
+    {
+      "model": "K400CNMO",
+      "title": "K400CNMO Trunk/Hatchback Mount",
+      "tagline": "Diamond deluxe Trunk lid/hatchback mount with  NMO base.",
+      "category": "NMO Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K400CNMO Trunk/Hatchback Mount ",
+        "https://diamondantenna.net/picts/K400NMO.jpg"
+      ]
+    },
+    {
+      "model": "K400SNMO",
+      "title": "K400SNMO Trunk/Hatchback Mount",
+      "tagline": "Diamond deluxe Trunk lid/hatchback mount with NMO base and SMA.",
+      "category": "NMO Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K400SNMO Trunk/Hatchback Mount",
+        "https://diamondantenna.net/picts/K400NMO.jpg"
+      ]
+    },
+    {
+      "model": "K412CNMO",
+      "title": "K412CNMO Trunk Lip Mount",
+      "tagline": "Medium duty trunk lip mount with NMO base.",
+      "category": "NMO Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K412S Trunk Lip Mount",
+        "https://diamondantenna.net/picts/K412NMO.jpg"
+      ]
+    },
+    {
+      "model": "K412SNMO",
+      "title": "K412SNMO Trunk Lip Mount",
+      "tagline": "Medium duty trunk lip mount with NMO base and SMA.",
+      "category": "NMO Based Trunk Mounts",
+      "metadata": [],
+      "thumbnail": [
+        "K412S Trunk Lip Mount",
+        "https://diamondantenna.net/picts/K412NMO.jpg"
+      ]
+    },
+    {
+      "model": "CRM",
+      "title": "CRM Mirror & Luggage Rack Mount",
+      "tagline": "Stainless steel mirror & luggage rack mount.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "K515S",
+      "title": "K515S Luggage Rack Mount",
+      "tagline": "Luggage rack mount with SO-239 base and SMA.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K515S Luggage Rack Mount",
+        "https://diamondantenna.net/picts/K515UHF.jpg"
+      ]
+    },
+    {
+      "model": "K515SNMO",
+      "title": "K515SNMO Luggage Rack Mount",
+      "tagline": "Luggage rack mount with  NMO base and SMA.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K515SNMO Luggage Rack Mount",
+        "https://diamondantenna.net/picts/K515NMO.jpg"
+      ]
+    },
+    {
+      "model": "K540",
+      "title": "K540 Mirror/Luggage Rack Mount",
+      "tagline": "Diamond mirror/luggage carrier mount.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K540 Mirror/Luggage Rack Mount",
+        "https://diamondantenna.net/picts/K540.jpg"
+      ]
+    },
+    {
+      "model": "K540KM",
+      "title": "K540KM Mirror/Luggage Rack Mount",
+      "tagline": "Same as K540 with Type PO/SO-239 antenna base.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/K540KM.jpg"
+      ]
+    },
+    {
+      "model": "K550",
+      "title": "K550 Luggage Rack Mount",
+      "tagline": "Diamond luggage carrier mount. Special design for new \n                        minivans.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/K550.jpg"
+      ]
+    },
+    {
+      "model": "K550",
+      "title": "K550 Luggage Rack Mount",
+      "tagline": "Same as K550, just for oversize railings",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/K550.jpg"
+      ]
+    },
+    {
+      "model": "K550KM",
+      "title": "K550KM Mirror/Luggage Rack Mount",
+      "tagline": "Same as K550 with Type PO/SO-239 antenna base.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/K550.jpg"
+      ]
+    },
+    {
+      "model": "K9000LRM",
+      "title": "K9000LRM Motorized Luggage Rack Mount",
+      "tagline": "Motorized luggage rack mount.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K9000LRM Motorized Mount ",
+        "https://diamondantenna.net/picts/K9000_4.jpg"
+      ]
+    },
+    {
+      "model": "K9000LRMO",
+      "title": "K9000LRMO Motorized Luggage Rack Mount",
+      "tagline": "Motorized mount for oversize luggage racks.",
+      "category": "",
+      "metadata": [],
+      "thumbnail": [
+        "K9000LRMO Motorized Mount ",
+        "https://diamondantenna.net/picts/K9000LRMO.jpg"
+      ]
+    },
+    {
+      "model": "BB7V",
+      "title": "BB7V Multiband Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "2-30 MHz (tuner required)",
+        "Stacked ElementPhasing/Wavelength": "250",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "4.5",
+        "WeightLbs.": "5 / 22",
+        "LengthFoot": "80",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "BB7V",
+        "https://diamondantenna.net/picts/BB7V.jpg"
+      ]
+    },
+    {
+      "model": "CP8040",
+      "title": "CP8040 80m/40m Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "80m/40mHF Antenna",
+        "Stacked ElementPhasing/Wavelength": "200W SSB",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "9",
+        "WeightLbs.": "21'",
+        "LengthFoot": "80",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP8040.jpg"
+      ]
+    },
+    {
+      "model": "CP725H",
+      "title": "CP725H Quad Band Trap Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "40m/15m/10m/6mTrap vertical with radials",
+        "Stacked ElementPhasing/Wavelength": "",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "6.6",
+        "WeightLbs.": "11' 8\"",
+        "LengthFoot": "100",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP725H.jpg"
+      ]
+    },
+    {
+      "model": "CP5H",
+      "title": "CP5H Five-Band Trap Vertical Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "40m/20m/15m/10m/6mTrap vertical with radials",
+        "Stacked ElementPhasing/Wavelength": "200/400/400/500/500",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "6.6",
+        "WeightLbs.": "11' 8\"",
+        "LengthFoot": "80",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/cp5h.jpg"
+      ]
+    },
+    {
+      "model": "CP6AR",
+      "title": "CP6AR Multi-Band HF Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "75m/40m/20m/15m/10m/6mHF Antenna",
+        "Stacked ElementPhasing/Wavelength": "200",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "9.9",
+        "WeightLbs.": "15' 1\"",
+        "LengthFoot": "80",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "CP6AR",
+        "https://diamondantenna.net/picts/cp5.jpg"
+      ]
+    },
+    {
+      "model": "HFV-5",
+      "title": "HFV-5 HF Dipole Antenna",
+      "tagline": "",
+      "category": "HF Vertical",
+      "metadata": {
+        "Band": "40m/20m/15m/10m/6mTrapped Dipole",
+        "Stacked ElementPhasing/Wavelength": "150W/200W SSB",
+        "Watts(PEP)": "UHF",
+        "ConnectorType": "4.3",
+        "WeightLbs.": "13' 1\"",
+        "LengthFoot": "",
+        "WindMPH": null
+      },
+      "thumbnail": [
+        "SD330 Screwdriver Mobile Antenna",
+        "https://diamondantenna.net/picts/HFV5.jpg"
+      ]
+    },
+    {
+      "model": "CP62",
+      "title": "CP62 6m Antenna",
+      "tagline": "",
+      "category": "6 Meter",
+      "metadata": {
+        "Band": "6m",
+        "Stacked ElementPhasing/Wavelength": "2-5/8 Wave",
+        "Watts(PEP)": "500W SSB, 200W FM",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "",
+        "LengthFoot": "22'",
+        "WindMPH": "80"
+      },
+      "thumbnail": [
+        "CP62 6m Antenna",
+        "https://diamondantenna.net/picts/CP62.jpg"
+      ]
+    },
+    {
+      "model": "CP610",
+      "title": "CP610 6m Antenna",
+      "tagline": "",
+      "category": "6 Meter",
+      "metadata": {
+        "Band": "6m/10m",
+        "Stacked ElementPhasing/Wavelength": "2-5/8 Wave/1-5/8 Wave",
+        "Watts(PEP)": "500W SSB, 200W FM",
+        "ConnectorType": "UHF",
+        "WeightLbs.": "",
+        "LengthFoot": "22",
+        "WindMPH": "80"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/CP610.jpg"
+      ]
+    },
+    {
+      "model": "W735",
+      "title": "W735 Long Wire Dipole Antenna",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "80m/40m",
+        "Gain/dBi": "",
+        "Power Rating": "1.2kW PEP",
+        "Boom Length": "85.3'",
+        "Weight Lbs.": "4.1"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/W735.jpg"
+      ]
+    },
+    {
+      "model": "W8010",
+      "title": "W8010 Long Wire Dipole Antenna",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "80m/40m/20m15m/10m",
+        "Gain/dBi": "",
+        "Power Rating": "1.2kW PEP",
+        "Boom Length": "63'",
+        "Weight Lbs.": "5.8"
+      },
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/W8010.jpg"
+      ]
+    },
+    {
+      "model": "A502HB",
+      "title": "A502HB Base Station Yagi Beam",
+      "tagline": "",
+      "category": "Yagi Beams & Dipoles",
+      "metadata": {
+        "Frequency": "6 meter2 element",
+        "Gain/dBi": "6.3",
+        "Power Rating": "400 watts PEP130 watts FM",
+        "Boom Length": "2.6´",
+        "Weight Lbs.": "3.75"
+      },
+      "thumbnail": [
+        "A502HB Base Station Yagi",
+        "https://diamondantenna.net/picts/a502hb.jpg"
+      ]
+    },
+    {
+      "model": "RH205",
+      "title": "RH205 Telescopic HT Antenna",
+      "tagline": "2m telescopic.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "RH205 Telescopic HT Antenna",
+        "https://diamondantenna.net/picts/RH205.jpg"
+      ]
+    },
+    {
+      "model": "RH3",
+      "title": "RH3 Mini HT Antenna",
+      "tagline": "Dual-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "RH3 Mini HT Antenna",
+        "https://diamondantenna.net/picts/RH3.jpg"
+      ]
+    },
+    {
+      "model": "RH519",
+      "title": "RH519 HT/Scanner Antenna",
+      "tagline": "Dual-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "RH519 HT/Scanner Antenna ",
+        "https://diamondantenna.net/picts/RH519.jpg"
+      ]
+    },
+    {
+      "model": "RH707",
+      "title": "RH707 HT Antenna",
+      "tagline": "Dual-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "RH789",
+      "title": "RH789 Telescoping Handheld Antenna",
+      "tagline": "Dual-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "SRH789",
+        "https://diamondantenna.net/picts/srh789.jpg"
+      ]
+    },
+    {
+      "model": "RH77CA",
+      "title": "RH77CA HT/Scanner Antenna",
+      "tagline": "High Gain Dual-Band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "RHF40",
+      "title": "RHF40 Flexible HT/Scanner Antenna",
+      "tagline": "High Gain Dual-band. Flexible.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "RH77CA HT/Scanner Antenna ",
+        "https://diamondantenna.net/picts/rhf40.jpg"
+      ]
+    },
+    {
+      "model": "RHF10",
+      "title": "RHF10 Handy HT Antenna",
+      "tagline": "Dual-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": [
+        "RHF10 Handy HT Antenna",
+        "https://diamondantenna.net/picts/RHF10.jpg"
+      ]
+    },
+    {
+      "model": "RH951S",
+      "title": "RH951S HT Antenna",
+      "tagline": "Tri-band.",
+      "category": "BNC",
+      "metadata": [],
+      "thumbnail": ""
+    },
+    {
+      "model": "SRH229",
+      "title": "SRH229 Dualband HT Antenna",
+      "tagline": "Dual-band 222-900MHz. Flexible Whip For ALINCO DJ-G29T",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH320A Triband HT Antenna",
+        "https://diamondantenna.net/picts/SRH320A.jpg"
+      ]
+    },
+    {
+      "model": "SRH519",
+      "title": "SRH519 HT/Scanner Antenna",
+      "tagline": "Dual-band 2m/70cm. Flexible Slim Design",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH519 HT/Scanner Antenna",
+        "https://diamondantenna.net/picts/SRH519.jpg"
+      ]
+    },
+    {
+      "model": "SRH789",
+      "title": "SRH789 Telescoping Handheld Antenna",
+      "tagline": "Dual-band 95-1100MHz. Omnidirectional telescoping.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH789",
+        "https://diamondantenna.net/picts/srh789.jpg"
+      ]
+    },
+    {
+      "model": "SRH701",
+      "title": "SRH701 HT 2m/70cm Antenna",
+      "tagline": "Dual-band 2m/70cm.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH519 HT/Scanner Antenna",
+        "https://diamondantenna.net/picts/srh701_s.jpg"
+      ]
+    },
+    {
+      "model": "SRH779",
+      "title": "SRH779 Telescoping 2m/70cm Handheld Antenna",
+      "tagline": "Dual-band 2m/70cm. Omnidirectional telescoping.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH789",
+        "https://diamondantenna.net/picts/SRH779_S.jpg"
+      ]
+    },
+    {
+      "model": "SRH77CA",
+      "title": "SRH77CA Dualband HT/Scanner Antenna",
+      "tagline": "High gain Dual-band 2m/70cm.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH77CA Dualband HT Antenna",
+        "https://diamondantenna.net/picts/SRH77CA.jpg"
+      ]
+    },
+    {
+      "model": "SRHF10",
+      "title": "SRHF10 Handy HT Antenna",
+      "tagline": "Dual-band 2m/70cm. Flexible.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRHF10 Handy HT Antenna",
+        "https://diamondantenna.net/picts/SRHF10.jpg"
+      ]
+    },
+    {
+      "model": "SRH320A",
+      "title": "SRH320A Triband HT Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH320A Triband HT Antenna",
+        "https://diamondantenna.net/picts/SRH320A.jpg"
+      ]
+    },
+    {
+      "model": "SRH805",
+      "title": "SRH805 HT Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH805 HT Antenna",
+        "https://diamondantenna.net/picts/SRH805_2.jpg"
+      ]
+    },
+    {
+      "model": "SRH815",
+      "title": "SRH815 Triband HT Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH815 Triband HT Antenna ",
+        "https://diamondantenna.net/picts/SRH815.jpg"
+      ]
+    },
+    {
+      "model": "SRH940",
+      "title": "SRH940 Flexible HT/Scanner Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH940 HT/Scanner Antenna ",
+        "https://diamondantenna.net/picts/srh940.jpg"
+      ]
+    },
+    {
+      "model": "SRHF40",
+      "title": "SRHF40 Flexible HT/Scanner Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "RH77CA HT/Scanner Antenna ",
+        "https://diamondantenna.net/picts/rhf40.jpg"
+      ]
+    },
+    {
+      "model": "SRH999",
+      "title": "SRH999 Quadband HT Antenna",
+      "tagline": "QUAD-band.",
+      "category": "SMA Male",
+      "metadata": [],
+      "thumbnail": [
+        "SRH999 Quadband HT Antenna",
+        "https://diamondantenna.net/picts/srh999.jpg"
+      ]
+    },
+    {
+      "model": "SRJF10",
+      "title": "SRJF10 Handy HT Antenna",
+      "tagline": "Dual-band.",
+      "category": "SMA Female",
+      "metadata": [],
+      "thumbnail": [
+        "SRJF10 Handy HT Antenna",
+        "https://diamondantenna.net/picts/SRJF10.jpg"
+      ]
+    },
+    {
+      "model": "SRJ77CA",
+      "title": "SRJ77CA Dualband HT/Scanner Antenna",
+      "tagline": "High gain Dual-band. SMA Female Connector.",
+      "category": "SMA Female",
+      "metadata": [],
+      "thumbnail": [
+        "SRH77CA Dualband HT Antenna",
+        "https://diamondantenna.net/picts/SRJ77CA_S.jpg"
+      ]
+    },
+    {
+      "model": "SRJF40",
+      "title": "SRJF40 Flexible HT/Scanner Antenna",
+      "tagline": "Tri-band.",
+      "category": "SMA Female",
+      "metadata": [],
+      "thumbnail": [
+        "RH77CA HT/Scanner Antenna ",
+        "https://diamondantenna.net/picts/rhf40.jpg"
+      ]
+    },
+    {
+      "model": "D130J",
+      "title": "D130J Super Discone Antenna",
+      "tagline": "Wideband Discone Antenna.",
+      "category": "Scanner Antennas",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "D130NJ",
+      "title": "D130NJ Super Discone Antenna",
+      "tagline": "Wideband Discone Antenna.",
+      "category": "Scanner Antennas",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "D3000N",
+      "title": "D3000N Super Discone Antenna",
+      "tagline": "Wideband Discone Antenna.",
+      "category": "Scanner Antennas",
+      "metadata": [],
+      "thumbnail": [
+        "D3000N Super Discone Antenna",
+        "https://diamondantenna.net/picts/d3000n.jpg"
+      ]
+    },
+    {
+      "model": "D220R",
+      "title": "D220R Mobile Scanner Antenna",
+      "tagline": "Mobile Discone Scanner Antenna.",
+      "category": "Scanner Antennas",
+      "metadata": [],
+      "thumbnail": [
+        "",
+        "https://diamondantenna.net/picts/D2220R_HIRES.jpg"
+      ]
+    }
+  ]

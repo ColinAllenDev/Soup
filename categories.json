@@ -1,69 +1,69 @@
 [
-    {
-      "name": "Wireless Antennas & Accessories",
-      "children": [
-        "Base Station Vertical",
-        "Base Station Yagi",
-        "Mobile Antenna",
-        "Terminal Equipment",
-        "Accessories"
-      ]
-    },
-    {
-      "name": "Base Station Antennas",
-      "children": [
-        "Mounting Brackets, and Stacking Booms",
-        "VHF & UHF Monoband & Repeater",
-        "Commercial Antennas",
-        "VHF & UHF Dualband & Repeater",
-        "VHF & UHF Triband & Repeater",
-        "Wideband Discone",
-        "Yagi Beams & Dipoles",
-        "HF Vertical & 6 Meter"
-      ]
-    },
-    {
-      "name": "Duplexers & Triplexers",
-      "children": [
-        "Not Found",
-        "Duplexers (Dualband)",
-        "Triplexers (Triband)"
-      ]
-    },
-    {
-      "name": "Mobile Antennas",
-      "children": [
-        "Monoband",
-        "Dualband",
-        "Triband",
-        "Quad / Multiband HF-VHF"
-      ]
-    },
-    {
-      "name": "Mobile Antenna Mounts",
-      "children": [
-        "Not Found",
-        "",
-        "UHF Based Trunk Mounts",
-        "NMO Based Trunk Mounts",
-        ""
-      ]
-    },
-    {
-      "name": "HF & 6m Antennas",
-      "children": [
-        "HF Vertical",
-        "6 Meter",
-        "Yagi Beams & Dipoles"
-      ]
-    },
-    {
-      "name": "HT & Scanner Antennas",
-      "children": [
-        "BNC",
-        "SMA Male",
-        "SMA Female",
-        "Scanner Antennas"
-      ]
-    }
-  ]
+  {
+    "name": "Wireless Antennas & Accessories",
+    "children": [
+      "Base Station Vertical",
+      "Base Station Yagi",
+      "Mobile Antenna",
+      "Terminal Equipment",
+      "Accessories"
+    ]
+  },
+  {
+    "name": "Base Station Antennas",
+    "children": [
+      "Mounting Brackets, and Stacking Booms",
+      "VHF & UHF Monoband & Repeater",
+      "Commercial Antennas",
+      "VHF & UHF Dualband & Repeater",
+      "VHF & UHF Triband & Repeater",
+      "Wideband Discone",
+      "Yagi Beams & Dipoles",
+      "HF Vertical & 6 Meter"
+    ]
+  },
+  {
+    "name": "Duplexers & Triplexers",
+    "children": [
+      "Not Found",
+      "Duplexers (Dualband)",
+      "Triplexers (Triband)"
+    ]
+  },
+  {
+    "name": "Mobile Antennas",
+    "children": [
+      "Monoband",
+      "Dualband",
+      "Triband",
+      "Quad / Multiband HF-VHF"
+    ]
+  },
+  {
+    "name": "Mobile Antenna Mounts",
+    "children": [
+      "Not Found",
+      "",
+      "UHF Based Trunk Mounts",
+      "NMO Based Trunk Mounts",
+      ""
+    ]
+  },
+  {
+    "name": "HF & 6m Antennas",
+    "children": [
+      "HF Vertical",
+      "6 Meter",
+      "Yagi Beams & Dipoles"
+    ]
+  },
+  {
+    "name": "HT & Scanner Antennas",
+    "children": [
+      "BNC",
+      "SMA Male",
+      "SMA Female",
+      "Scanner Antennas"
+    ]
+  }
+]

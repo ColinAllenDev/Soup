@@ -97,6 +97,10 @@ class ProductPage(Page):
         if not self.df.empty:
             if 'Description' in self.df:
                 return self.df.loc[self.index, 'Description']
+            elif "Stacked ElementPhasing/Wavelength":
+                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "Stacked ElementPhasing/Wavelength"]).strip()
+            elif "ElementPhasing/Wavelength":
+                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "ElementPhasing/Wavelength"]).strip()
             else:
                 return ''
             
@@ -163,7 +167,6 @@ class ProductParser():
                         product_page = ProductPage(link, index, table.to_dataframe())
                         product_title = Soup.clean_whitespace(product_page.title)
                         if isinstance(product_page.metadata, pd.Series):
-                            print("Found series")
                             product_metadata = product_page.metadata.to_dict()
                         else:
                             product_metadata = product_page.metadata

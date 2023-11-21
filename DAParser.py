@@ -97,21 +97,21 @@ class ProductPage(Page):
         if not self.df.empty:
             if 'Description' in self.df:
                 return self.df.loc[self.index, 'Description']
-            elif "Stacked ElementPhasing/Wavelength":
-                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "Stacked ElementPhasing/Wavelength"]).strip()
-            elif "ElementPhasing/Wavelength":
-                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "ElementPhasing/Wavelength"]).strip()
             else:
                 return ''
             
     def _get_metadata(self):
         if not self.df.empty:
-            if 'Description' not in self.df:
-                df_trimmed = self.df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-                return df_trimmed.loc[self.index][1:]
+            if 'Description' in self.df:
+                return self.df.loc[self.index, 'Description']
+            elif "Stacked ElementPhasing/Wavelength" in self.df:
+                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "Stacked ElementPhasing/Wavelength"]).strip()
+            elif "ElementPhasing/Wavelength" in self.df:
+                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "ElementPhasing/Wavelength"]).strip()
+            elif "Element Phasing/Wavelength" in self.df:
+                re.sub('\\r\\n(.)', ' ', self.df.loc[self.index, "Element Phasing/Wavelength"]).strip()
             else:
-                return []
-
+                return ''
         
 @dataclass
 class Category:
